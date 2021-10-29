@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 	"time"
-	//"log"
+	"log"
 	"net"
 	"os"
 
-	//"time"
+	"time"
 
 	"crypto/elliptic"
 
